@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif])
+![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*b29pJKZqp6Jxb3rd9QlJiw.png)
 <h1 align="center">Hi 👋, I'm Sudipta Biswas</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
