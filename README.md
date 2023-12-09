@@ -19,7 +19,7 @@ Passionate frontend developer 🚀 with a knack for creating beautiful, responsi
 
 ### 🚀 Recent Projects
 
-- [Project 1](https://chef-2894f.web.app/): Travel and tourist services related website. <br> <br>
+- [Project 1](https://chef-2894f.web.app/): Travel and tourist services related website. [Front-end Code](https://github.com/Sudiptacoding/TripTravel-fontend-2023-15-MERN) [Back-end Code](https://github.com/Sudiptacoding/TripTravel-backend-2023-15-MERN) <br> <br>
 ↪ Project details <br>
    → Dashboard provided for Admin, Tour Guide & Tourist, admin to manage activities. <br>
    → Admin oversees all Tour Guide and Tourist activities, reviewing role change for approval. <br>
@@ -27,7 +27,7 @@ Passionate frontend developer 🚀 with a knack for creating beautiful, responsi
    ➲ Technology Used : React js, Tailwind css, Node.js, Express.js, MongoDB, Firebase , Animate css & more
    
 
-- [Project 2](https://volentear-8e15a.web.app/): The Career Maker related website. <br> <br>
+- [Project 2](https://volentear-8e15a.web.app/): The Career Maker related website.  [Front-end Code](https://github.com/Sudiptacoding/HomeExchanger-fontend-2023-14-MERN) [Back-end Code](https://github.com/Sudiptacoding/HomeExchanger-backend-2023-14-MERN-) <br> <br>
   ↪ Project details <br>
    → Users can add services in their collection on the "Services" page. They can also browse all services added by others. <br>
    → Services details are visible to all users, but certain actions require login. <br>
@@ -37,7 +37,7 @@ Passionate frontend developer 🚀 with a knack for creating beautiful, responsi
 
 
   
-- [Project 3](https://assignment9-727d1.web.app/): Health and Wellness Events related website.<br> <br>
+- [Project 3](https://assignment9-727d1.web.app/): Health and Wellness Events related website.  [Front-end Code](https://github.com/Sudiptacoding/Yoga-Meditation-2023-12)  <br> <br>
     ↪ Project details <br>
    → Implemented secure user authentication system. <br>
    → Fully responsive design . Use awsome svg background. <br>
