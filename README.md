@@ -1,34 +1,72 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*b29pJKZqp6Jxb3rd9QlJiw.png)
-<h1 align="center">Hi 👋, I'm Sudipta Biswas</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudiptacoding&label=Profile%20views&color=0e75b6&style=flat" alt="sudiptacoding" /> </p>
+### 👋 Hello, World! I'm Sudipta Biswas
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Passionate frontend developer 🚀 with a knack for creating beautiful, responsive, and user-friendly web applications. I thrive on turning complex problems into simple, elegant solutions. Let's build something amazing together! 💻
 
-- 🔭 I’m currently working on [Trips Travel](https://chef-2894f.web.app/)
+### 🛠️ Tech Stack
 
-- 🌱 I’m currently learning **Next.js, Redux Toolkit ,Mongoose, Material-UI**
+- **Expertise:** JavaScript, ES6, React.js,TanStackQuery, daisyUI, HTML5, CSS3, Tailwind Css,
+- **Comfortable:** Node.js, Express.js, Firebase, MongoDB, API, JSON , Bootstrap5, React Bootstrap
+- **Tools:** VS Code, Git, Vite, NPM, Chrome Dev tool, Firebase, Netlify, Vercel
+- **Familiar:** Yarn, Axios, Preline UI, ContextAPI, RESTAPi, Firebase, mongoose, Material UI
 
-- 👯 I’m looking to collaborate on [Home🏠Exchanger](https://volentear-8e15a.web.app/)
+### 💡 What I Do
 
-- 🤝 I’m looking for help with [Yoga and Meditation](https://assignment9-727d1.web.app/)
+- Transforming ideas into intuitive user interfaces
+- Crafting pixel-perfect, mobile-first websites
+- Collaborating with cross-functional teams for seamless project delivery
 
-- 👨‍💻 All of my projects are available at [https://buj-al-arab-eafb9.web.app/](https://buj-al-arab-eafb9.web.app/)
+### 🚀 Recent Projects
 
-- 💬 Ask me about **React.js, JavaScript,ES6,Node.js,Firebase, Express.js, Firebase, MongoDB, API, JSON , Bootstrap5, React Bootstrap TanStackQuery, daisyUI, HTML5, CSS3, Tailwind Css,VS Code, Git, Vite, NPM, Chrome Dev tool, Firebase, Netlify, Vercel**
+- [Project 1](https://chef-2894f.web.app/): Travel and tourist services related website. <br> <br>
+↪ Project details <br>
+   → Dashboard provided for Admin, Tour Guide & Tourist, admin to manage activities. <br>
+   → Admin oversees all Tour Guide and Tourist activities, reviewing role change for approval. <br>
+   → Tourist can book package, Tour Guide can provide his services, and utilize the dark theme. <br>
+   ➲ Technology Used : React js, Tailwind css, Node.js, Express.js, MongoDB, Firebase , Animate css & more
+   
 
-- 📫 How to reach me **sudiptabiswas506@gmail.com**
+- [Project 2](https://volentear-8e15a.web.app/): The Career Maker related website. <br> <br>
+  ↪ Project details <br>
+   → Users can add services in their collection on the "Services" page. They can also browse all services added by others. <br>
+   → Services details are visible to all users, but certain actions require login. <br>
+   → Sealer can change status dynamicaly .You can see all the posts of the same user on the More Details page . <br>
+   → Logged-in users have private routes to manage their services (With JWT), including updating, deleting, and adding new toys . <br>
+   ➲ React js, Tailwind css,Node.js, Express.js, MongoDB, Firebase Authentication & more
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ak5T1dFTqP6AYbkk9XdQ47x7a4EokFzw/view?usp=sharing](https://drive.google.com/file/d/1ak5T1dFTqP6AYbkk9XdQ47x7a4EokFzw/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny**
+  
+- [Project 3](https://assignment9-727d1.web.app/): Health and Wellness Events related website.<br> <br>
+    ↪ Project details <br>
+   → Implemented secure user authentication system. <br>
+   → Fully responsive design . Use awsome svg background. <br>
+   → Users can access detailed service information, when user login.<br>
+   ➲ React.js,daisyUI, Firebase, Tailwind css , Preline , aos & more
+
+### 📚 Learning & Exploring
+
+- Currently diving into [Next js, Redux Toolkit, Mongoose, Material-UI ]
+- Exploring the world of [Python]
+
+### 🌐 Connect with Me
+
+- **GitHub:** [Sudiptacoding](https://github.com/Sudiptacoding)
+- **LinkedIn:** [Sudipta Biswas](https://www.linkedin.com/in/sudipta-biswas123/)
+- **Facebook:** [Sudipta Biswas](https://www.facebook.com/sudipta.biswas.98837399/)
+- **Portfolio:** [Sudipta Biswas](https://buj-al-arab-eafb9.web.app/)
+
+### 🤝 Open to Collaborate
+
+I'm always open to interesting projects and collaborations. Let's create something awesome together! Feel free to reach out via [sudiptabiswas506@gmail.com](sudiptabiswas506@gmail.com)  or any of the social links above.
+
+Happy coding! 😊
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sudipta biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudipta biswas" height="30" width="40" /></a>
-<a href="https://fb.com/sudipta biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudipta biswas" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sudipta.biswas.98837399/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudipta biswas" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sudipta.biswas.98837399/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudipta biswas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
